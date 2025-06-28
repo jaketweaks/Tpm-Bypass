@@ -10,8 +10,8 @@ This project spoofs the presence of a Trusted Platform Module (TPM) to bypass Wi
 
 - Windows 10 or 11 system
 - Local Administrator privileges
-- [Spoofer.exe](./Spoofer.exe)
-- Optional: [`tpm-info.exe`](https://github.com/binarly-io/efi-tools) to verify results
+- [Spoofer.exe]
+- Optional: [`tpm-info.exe`] to verify results
 
 ---
 
