@@ -12,8 +12,8 @@ This tool bypasses Windows 11's TPM 2.0 and Secure Boot checks using **safe, sof
 
 - Windows 10 or 11
 - Administrator privileges
-- [Spoofer.exe](./Spoofer.exe)
-- (Optional) [tpm-info.exe](https://github.com/binarly-io/efi-tools) to verify TPM status
+- [Spoofer.exe]
+- (Optional) [tpm-info.exe] to verify TPM status
 
 ---
 
