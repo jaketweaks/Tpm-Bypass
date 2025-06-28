@@ -26,6 +26,13 @@ This tool bypasses TPM 2.0 and Secure Boot requirements to allow installation an
 
 ---
 
+## 🎥 Showcase
+
+Watch the bypass in action here:  
+https://youtu.be/SlzvZtO9cl4
+
+---
+
 ## 🙋‍♂️ Why Use This?
 
 - Your PC lacks TPM 2.0 or Secure Boot support  
